@@ -1,0 +1,27 @@
+﻿.barColor1 {
+    background-color: #337ab7;
+}
+.barColor1 img {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+.barColor1 h1 {
+    color: #fff;
+    font-size: 45px;
+}
+
+body {
+    background: url('../images/background.jpg') no-repeat left center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.container {
+    background-color: #fff;
+}
